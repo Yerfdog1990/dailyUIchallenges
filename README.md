@@ -1,1 +1,2 @@
 # dailyUIchallenges
+Daily UI was initiated as a design challenge to inspire and challenge designers worldwide. Since its launch in 2016, the challenge has engaged over 300,000 participants from more than 190 countries, resulting in the creation and sharing of over 15 million designs. Daily UI aims to motivate designers, helping them advance their skills, build their portfolios, and continue their learning journey.
